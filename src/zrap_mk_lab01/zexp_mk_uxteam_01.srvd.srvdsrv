@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for UXTeam.01'
+define service ZEXP_MK_UXTEAM_01 {
+  expose ZC_MK_UXTEAM_01 as UXTeam;
+}
